@@ -1,1 +1,1 @@
-
+This folder holds crucial sample data for project development. It encompasses key information on [briefly describe the data]. Each file provides insights into specific attributes, facilitating testing and development. Explore individual data files for a comprehensive understanding of the dataset's structure and content, contributing to the project's overall success.
